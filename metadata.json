@@ -1,6 +1,0 @@
-{
-  "name": "HR Department Manager",
-  "description": "A comprehensive HR Associate Portal for role-based administrative control, candidate recruiting tracking, grievance ticketing, and event/meeting enterprise scheduling.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
